@@ -1,0 +1,8 @@
+C:\Users\FSoliva\Downloads\sharp\test\bin\Release\test.exe
+C:\Users\FSoliva\Downloads\sharp\test\bin\Release\test.pdb
+C:\Users\FSoliva\Downloads\sharp\test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FSoliva\Downloads\sharp\test\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\FSoliva\Downloads\sharp\test\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FSoliva\Downloads\sharp\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Users\FSoliva\Downloads\sharp\test\obj\Release\test.exe
+C:\Users\FSoliva\Downloads\sharp\test\obj\Release\test.pdb

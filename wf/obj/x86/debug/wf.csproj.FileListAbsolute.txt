@@ -1,0 +1,16 @@
+D:\stuff\sandBox\ra-unz-upl\wf\bin\Debug\WindowsFormsApplication1.exe.config
+D:\stuff\sandBox\ra-unz-upl\wf\bin\Debug\WindowsFormsApplication1.exe
+D:\stuff\sandBox\ra-unz-upl\wf\bin\Debug\WindowsFormsApplication1.pdb
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\wf.csproj.GenerateResource.Cache
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\stuff\sandBox\stuff\wf\bin\Debug\WindowsFormsApplication1.exe.config
+D:\stuff\sandBox\stuff\wf\bin\Debug\WindowsFormsApplication1.exe
+D:\stuff\sandBox\stuff\wf\bin\Debug\WindowsFormsApplication1.pdb
+D:\stuff\sandBox\stuff\wf\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\stuff\sandBox\stuff\wf\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\stuff\sandBox\stuff\wf\obj\x86\Debug\wf.csproj.GenerateResource.Cache
+D:\stuff\sandBox\stuff\wf\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\stuff\sandBox\stuff\wf\obj\x86\Debug\WindowsFormsApplication1.pdb

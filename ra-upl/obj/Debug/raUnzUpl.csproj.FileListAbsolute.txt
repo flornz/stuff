@@ -1,0 +1,13 @@
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\PhotoBrowser.ProgressForm.resources
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\PhotoBrowser.PhotoBrowser.resources
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\Google.GData.Tools.GoogleClientLogin.resources
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\PhotoBrowser.PictureBrowser.resources
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\raUnzUpl.csproj.GenerateResource.Cache
+D:\stuff\net\gdata\samples\ra-unz-upl\bin\Debug\PhotoBrowser.exe
+D:\stuff\net\gdata\samples\ra-unz-upl\bin\Debug\PhotoBrowser.pdb
+D:\stuff\net\gdata\samples\ra-unz-upl\bin\Debug\Google.GData.Client.dll
+D:\stuff\net\gdata\samples\ra-unz-upl\bin\Debug\Google.GData.Extensions.dll
+D:\stuff\net\gdata\samples\ra-unz-upl\bin\Debug\Google.GData.Photos.dll
+D:\stuff\net\gdata\samples\ra-unz-upl\bin\Debug\Newtonsoft.Json.dll
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\PhotoBrowser.exe
+D:\stuff\net\gdata\samples\ra-unz-upl\obj\Debug\PhotoBrowser.pdb

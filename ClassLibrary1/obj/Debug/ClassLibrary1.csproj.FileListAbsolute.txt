@@ -1,0 +1,5 @@
+C:\0.ved\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\0.ved\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\0.ved\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\0.ved\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\0.ved\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

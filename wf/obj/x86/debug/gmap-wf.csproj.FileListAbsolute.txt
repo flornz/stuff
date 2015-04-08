@@ -1,0 +1,6 @@
+D:\stuff\sandBox\ra-unz-upl\gmap-wf\bin\Debug\WindowsFormsApplication1.exe.config
+D:\stuff\sandBox\ra-unz-upl\gmap-wf\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\stuff\sandBox\ra-unz-upl\gmap-wf\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\stuff\sandBox\ra-unz-upl\wf\bin\Debug\WindowsFormsApplication1.exe.config
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\stuff\sandBox\ra-unz-upl\wf\obj\x86\Debug\WindowsFormsApplication1.pdb

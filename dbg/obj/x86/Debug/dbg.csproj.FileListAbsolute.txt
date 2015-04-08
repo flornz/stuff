@@ -1,0 +1,14 @@
+D:\stuff\sandBox\ra-unz-upl\dbg\bin\Debug\stuff.exe
+D:\stuff\sandBox\ra-unz-upl\dbg\bin\Debug\stuff.pdb
+D:\stuff\sandBox\ra-unz-upl\dbg\obj\x86\Debug\stuff.Form1.resources
+D:\stuff\sandBox\ra-unz-upl\dbg\obj\x86\Debug\stuff.Properties.Resources.resources
+D:\stuff\sandBox\ra-unz-upl\dbg\obj\x86\Debug\dbg.csproj.GenerateResource.Cache
+D:\stuff\sandBox\ra-unz-upl\dbg\obj\x86\Debug\stuff.exe
+D:\stuff\sandBox\ra-unz-upl\dbg\obj\x86\Debug\stuff.pdb
+D:\stuff\sandBox\stuff\dbg\bin\Debug\stuff.exe
+D:\stuff\sandBox\stuff\dbg\bin\Debug\stuff.pdb
+D:\stuff\sandBox\stuff\dbg\obj\x86\Debug\stuff.Form1.resources
+D:\stuff\sandBox\stuff\dbg\obj\x86\Debug\stuff.Properties.Resources.resources
+D:\stuff\sandBox\stuff\dbg\obj\x86\Debug\dbg.csproj.GenerateResource.Cache
+D:\stuff\sandBox\stuff\dbg\obj\x86\Debug\stuff.exe
+D:\stuff\sandBox\stuff\dbg\obj\x86\Debug\stuff.pdb
